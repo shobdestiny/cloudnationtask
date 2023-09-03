@@ -1,0 +1,42 @@
+export const dashboardConfig = [
+  {
+    title: "New App",
+    logo: "solar_laptop-minimalistic-bold.svg",
+    desc: "Get started on building your app! Provide the details to begin the creation process. Our platform will generate the structure for your functional app aligned with your vision.",
+    background: "#FFFEED",
+    colSpan: 1,
+    buttonText: "Create App",
+  },
+  {
+    title: "New Cluster",
+    logo: "solar_widget-bold-duotone.svg",
+    desc: "Set up a scalable computing environment! Create a cluster for optimal performance, availability, and scalability. Handle traffic, respond faster, and scale effortlessly.",
+    background: "#FFEEED",
+    colSpan: 1,
+    buttonText: "Create Cluster",
+  },
+  {
+    title: "New Datastore",
+    logo: "solar_database-bold-duotone.svg",
+    desc: "Establish secure storage for your app's data. Create a datastore for managing critical information. Ensure integrity and accessibility for reliable app services.",
+    background: "#EDFFFA",
+    colSpan: 1,
+    buttonText: "Create Database",
+  },
+  {
+    title: "Connect",
+    logo: "solar_folder-path-connect-bold.svg",
+    desc: "Connect to your favourite Repositories wherever they are.",
+    background: "#FFF6EC",
+    colSpan: 2,
+    buttonText: "Create Cluster",
+  },
+  {
+    title: "Documentation",
+    logo: "solar_notebook-square-bold.svg",
+    desc: "Establish secure storage for your app's data. Create a datastore for managing critical information. Ensure integrity and accessibility for reliable app services.",
+    background: "#F3EDFF",
+    colSpan: 1,
+    buttonText: "View Docs",
+  },
+];
